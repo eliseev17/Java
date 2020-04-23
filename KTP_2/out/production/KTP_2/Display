@@ -1,0 +1,4 @@
+interface Display {
+    void Show();
+    void Hide();
+}
